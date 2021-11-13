@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\bin\Debug\Практическая №8.exe.config
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\bin\Debug\Практическая №8.exe
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\bin\Debug\Практическая №8.pdb
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\obj\Debug\Практическая №8.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\obj\Debug\Практическая__8.Form1.resources
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\obj\Debug\Практическая__8.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\obj\Debug\Практическая №8.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\obj\Debug\Практическая №8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\obj\Debug\Практическая №8.exe
+C:\Users\Lenovo\source\repos\Практическая №8\Практическая №8\obj\Debug\Практическая №8.pdb
